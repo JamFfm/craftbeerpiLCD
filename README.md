@@ -81,6 +81,7 @@ corresponding sensorname is shown.
 **Fermenter mode**
 --------------
 - Pretty much the same as multidisplay for all fermenter.
+- Starts automatically if there is no Brewstep running and a active fermenterstep
 - Displays the brew-name, fermenter-name, target-temperature, current-temperature of each fermenter.
 - If the heater or cooler of the fermenter is on it will show a symbol.
 A beerglas detects heater is on, * means cooler in on.
